@@ -16,18 +16,20 @@ Modelos de Serviço na Nuvem:
 - SaaS (Software as a Service): Software pronto como serviço. Aplicativos prontos, acessados via internet, sem necessidade de instalação local. (ex: Microsoft 365, Outlook Online).
 
 Regiões e Zonas de Disponibilidade:
-Regiões: São áreas geográficas (como "Brasil South" ou "East US"), onde estão os datacenters Azure.
-Zonas de Disponibilidade: São datacenters independentes em uma mesma região para garantir alta disponibilidade. Então mesmo se uma zona falhar, os serviços continuam funcionando em outra.
+- Regiões: São áreas geográficas (como "Brasil South" ou "East US"), onde estão os datacenters Azure.
+- Zonas de Disponibilidade: São datacenters independentes em uma mesma região para garantir alta disponibilidade. Então mesmo se uma zona falhar, os serviços continuam funcionando em outra.
 
 Serviços de Computação do Azure:
 Recursos que permitem executar aplicações e processos na nuvem, sem se preocupar em manter servidores físicos.
-Exemplos: Virtual Machines (VMs): servidores virtuais configuráveis.
-App Service: hospedagem de sites e APIs.
-Functions: execução de código sob demanda, sem servidor dedicado.
+Exemplos: 
+- Virtual Machines (VMs): servidores virtuais configuráveis.
+- App Service: hospedagem de sites e APIs.
+- Functions: execução de código sob demanda, sem servidor dedicado.
 
 Serviços de Containers do Azure:
 Containers são pacotes de software leves e portáteis, são como caixinhas fechadas que carregam tudo que um aplicativo precisa para funcionar, e podem ser executados em qualquer lugar, sem se preocupar com a máquina onde estão.
-Exemplos: Azure Kubernetes Service (AKS): gerenciamento de vários containers ao mesmo tempo.
-Azure Container Instances (ACI): execução rápida de containers sem servidor, de forma simples sem precisar configurar servidores.
+Exemplos: 
+- Azure Kubernetes Service (AKS): gerenciamento de vários containers ao mesmo tempo.
+- Azure Container Instances (ACI): execução rápida de containers sem servidor, de forma simples sem precisar configurar servidores.
 
 
